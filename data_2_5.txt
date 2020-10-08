@@ -1,0 +1,21 @@
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
+eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim 
+ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip 
+ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate 
+velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat
+ non proident, sunt in culpa qui 
+officia deserunt mollit anim id est laborum.
+Выведите на экран или в файл все перестановки (с повторениями) из трех цифр от 1 до 5. 
+Например, 123, 345, 251 и т. д. 
+Напишите генератор автомобильных номеров Украины: две буквы, четыре цифры, две буквы.
+ Варианты первых двух букв здесь
+  https://www.ukrstrahovanie.com.ua/wp-content/uploads/2018/08/avo-nomera.jpg, последние 
+  две могут быть из строки ETIOPAHKXCB.
+Создайте словарь, в котором ключи - разные числа, значения - рандомные числа (любые).
+ Напишите генератор списка из элементов-произведений “ключ” * “значение”. 
+Создайте словарь, в котором ключи - разные числа, значения - строки из файла 
+(файл подготовьте вручную). Поменяйте значения в словаре: если строка начинается на гласную, переверните её (начало станет концом). Если строка начинается на буквы T, Р или K, удалите такую пару из словаря. 
+Создайте словарь, в котором значением будет достаточно длинная строка, а ключом - её хэш. 
+В качестве хэш-функции, которая вычисляет хэш по строке, возьмите sha1 из библиотеки hashlib 
+(import hashlib, a = hashlib.sha1(“some_string”). Запишите словарь в файл, отсортировав хэши 
+в алфавитном порядке. 

@@ -1,0 +1,20 @@
+04bf2fd80b06edbad305eb7ba9c5f045fcd4940d : ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip 
+0962b85245e327aa545ecbfdbbf1ba89a6f5c8e8 : Создайте словарь, в котором ключи - разные числа, значения - строки из файла 
+1713a18677267e05e0fba32468028a998b146795 :  non proident, sunt in culpa qui 
+2860c6cc860c80185d22508e37491bee03f3f255 :  Варианты первых двух букв здесь
+37f056506cc15f5c1dddc0ce028bf8ae61dbe36f : Создайте словарь, в котором ключи - разные числа, значения - рандомные числа (любые).
+39d879cd0c68281f0a0be43301a6b755c160defd : в алфавитном порядке. 3e82ed8fdbea6cf23320f60e6bb3a1a593d03726 : velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat
+3f0e785883f2d2790dfa984469abb82a8c951dcb : (import hashlib, a = hashlib.sha1(“some_string”). Запишите словарь в файл, отсортировав хэши 
+50fefcd17903d35c627ec40f86b51950d76d6fc9 : Например, 123, 345, 251 и т. д. 
+5277ee248c27d206d38fe6afb3fe80c32a0d59b5 :  Напишите генератор списка из элементов-произведений “ключ” * “значение”. 
+6da76b5b46cbfb7758319f94eeeca89c55b17256 : ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate 
+70b299147b93d83f0c31e0d51876a2862676c3ba :   https://www.ukrstrahovanie.com.ua/wp-content/uploads/2018/08/avo-nomera.jpg, последние 
+7c608326b904f7acf1fcbca5006621a8be21223b : Выведите на экран или в файл все перестановки (с повторениями) из трех цифр от 1 до 5. 
+7ee297ae628dc9eeb2514e782187cdfdcee99ba0 : Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
+866b7b616b7849c1cd5cca9de9481f38a582053a : В качестве хэш-функции, которая вычисляет хэш по строке, возьмите sha1 из библиотеки hashlib 
+b30d4404416d883473aafcd52d51bc773bc7b3a9 : officia deserunt mollit anim id est laborum.
+cc6823e5abb7439d3974594cea7440b4c61eeb80 : (файл подготовьте вручную). Поменяйте значения в словаре: если строка начинается на гласную, переверните её (начало станет концом). Если строка начинается на буквы T, Р или K, удалите такую пару из словаря. 
+cdf9263026566955b95a669cbb5a11e46de27b5b : Напишите генератор автомобильных номеров Украины: две буквы, четыре цифры, две буквы.
+ea5ad8fd6b5ed276c0bab0db919a5ebff13f3ab3 : Создайте словарь, в котором значением будет достаточно длинная строка, а ключом - её хэш. 
+f01de42f94647db95ab595bd4aece5f1213f8560 : eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim 
+f06f6ec97baf05854f45ec8f9ce4314d0b3fb2d4 :   две могут быть из строки ETIOPAHKXCB.
