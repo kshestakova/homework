@@ -1,0 +1,10 @@
+The Matrix, 136, 1999, 8.7
+Schindler's List, 195, 1993, 8.9
+Pulp Fiction, 154, 1995, 8.9
+The Silence of the Lambs, 118, 1991, 8.6
+Forrest Gump, 142, 1994, 8.8
+The Shawshank Redemption, 142, 1994, 9.3
+Inception, 148, 2010, 8.8
+One Flew Over the Cuckoo's Nest, 133, 1975, 8.7
+Fight Club, 139, 1999, 8.8
+Star Wars, 121, 1977, 8.6
